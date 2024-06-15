@@ -1,0 +1,59 @@
+body{
+    
+    background-color: black;
+    color:white;
+}
+img{
+    width:150px;
+    margin: 25px;
+    border-radius: 40px;
+}
+input[type=text]
+{  
+    margin-left:12% ; 
+    margin-right: 3%;
+    width: 58%;
+    height: 10vh;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.us{
+    /* display:inline ; */
+    border-radius: 10px;
+    margin: 1px;
+    padding: 1px ;
+    
+    
+    
+}
+
+input[type=button],input[type=reset]
+{
+    font-size: 25px;
+    width:12% ;
+    height: 10vh;
+    margin: 2%;
+    color:red;
+    background-color: black;
+    border-radius: 5px;
+}
+input[type=button]:hover,input[type=reset]:hover
+{
+    color:rgb(251, 43, 43);
+    background-color: rgb(19, 19, 19);
+
+}
+
+.fi
+{
+    border-radius: 10px;
+    background-color: rgb(50, 50, 50);
+    height: 90vh;
+}
+.fii
+{
+    border-radius: 10px;
+    background-color: rgb(50, 50, 50);
+    
+}
